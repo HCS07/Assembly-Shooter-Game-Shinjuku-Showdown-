@@ -17,5 +17,7 @@ GAMEPLAY:
 OBJECTIVE:
 The player is the blue character (Satoru Gojo) and needs to take down the red enemy (Ryomen Sukuna), be careful both the player and the enemy die after being hit once.
 
+ADITIONAL INFO:
+This game is programmed in ICMC`s assembly and was made as an assignment for the Introduction to Computer Systems discipline by Eduardo do Valle Simões (@simoesusp)
 OBS*:
 1- The site https://proc.giroto.dev/ is a browser simulator of the USP ICMC CPU

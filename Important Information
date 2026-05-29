@@ -1,0 +1,21 @@
+HOW TO PLAY THE GAME:
+1-Download the charmap.mif file and shinjuku_showdown.asm;
+2*-Go to this site https://proc.giroto.dev/;
+3-Select the file picker icon (second one from the top) and import shinjuku_showdown.asm;
+4-Select the screen editor icon (fourth one from the top) and import charmap.mif;
+5-In the file picker icon, click in shinjuku_showdown.asm, it will open the code, then press Build;
+6-Select the state icon (first one) and press run;
+7-If the screen wasn`t already select the sixth icon from the top;
+
+GAMEPLAY:
+1-Press 'W' to move Up;
+2-Press 'S' to move Down;
+3-Press 'D' to move Right;
+4-Press 'A' to move Left;
+5-Press 'F' to Shoot;
+
+OBJECTIVE:
+The player is the blue character (Satoru Gojo) and needs to take down the red enemy (Ryomen Sukuna), be careful both the player and the enemy die after being hit once.
+
+OBS*:
+1- The site https://proc.giroto.dev/ is a browser simulator of the USP ICMC CPU

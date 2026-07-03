@@ -22,3 +22,4 @@ This game is programmed in ICMC`s assembly and was made as an assignment for the
 
 OBS*: The site https://proc.giroto.dev/ is a browser simulator of the USP ICMC CPU.
 More information in :https://github.com/simoesusp/Processador-ICMC;
+simple_simulator_template.c file is a c# code simulating the operations of the ICMC CPU
